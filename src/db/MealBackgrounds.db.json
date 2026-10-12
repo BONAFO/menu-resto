@@ -1,0 +1,31 @@
+
+[
+  {
+    "id": "desayuno",
+    "name": "Desayuno",
+    "startHour": 5,
+    "endHour": 11,
+    "image": "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?auto=format&fit=crop&w=2000&q=85"
+  },
+  {
+    "id": "almuerzo",
+    "name": "Almuerzo",
+    "startHour": 11,
+    "endHour": 16,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=2000&q=85"
+  },
+  {
+    "id": "merienda",
+    "name": "Merienda",
+    "startHour": 16,
+    "endHour": 20,
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=2000&q=85"
+  },
+  {
+    "id": "cena",
+    "name": "Cena",
+    "startHour": 20,
+    "endHour": 5,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=2000&q=85"
+  }
+]

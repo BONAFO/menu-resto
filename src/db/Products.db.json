@@ -1,0 +1,704 @@
+[
+  {
+    "id": 1,
+    "name": "Provoleta a la parrilla",
+    "description": "Queso provolone fundido con orégano y aceite de oliva.",
+    "price": 8500,
+    "categoryId": 1,
+    "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Rabas a la romana",
+    "description": "Anillos de calamar rebozados, fritos y acompañados con limón.",
+    "price": 14500,
+    "categoryId": 1,
+    "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Tortilla de papas",
+    "description": "Tortilla casera de papas y huevo, dorada por fuera.",
+    "price": 7800,
+    "categoryId": 1,
+    "image": "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Revuelto gramajo",
+    "description": "Papas pay, huevo revuelto, jamón cocido y arvejas.",
+    "price": 9200,
+    "categoryId": 1,
+    "image": "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Provoleta con jamón crudo",
+    "description": "Provolone fundido con jamón crudo, orégano y oliva.",
+    "price": 10500,
+    "categoryId": 1,
+    "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Croquetas de acelga",
+    "description": "Croquetas caseras doradas, servidas con salsa alioli.",
+    "price": 7500,
+    "categoryId": 1,
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 7,
+    "name": "Empanada de carne cortada a cuchillo",
+    "description": "Carne vacuna, cebolla, huevo y condimentos criollos.",
+    "price": 2200,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1604467715878-83e57e8bc129?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Empanada de carne suave",
+    "description": "Carne picada, cebolla y especias tradicionales.",
+    "price": 2000,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1604467715878-83e57e8bc129?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Empanada de jamón y queso",
+    "description": "Jamón cocido y queso fundido en masa dorada.",
+    "price": 2000,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1604467715878-83e57e8bc129?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Empanada de pollo",
+    "description": "Pollo desmenuzado con cebolla y condimentos.",
+    "price": 2000,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1604467715878-83e57e8bc129?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Empanada caprese",
+    "description": "Mozzarella, tomate y albahaca fresca.",
+    "price": 2100,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1604467715878-83e57e8bc129?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Empanada de humita",
+    "description": "Choclo cremoso, cebolla salteada y especias.",
+    "price": 2000,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1604467715878-83e57e8bc129?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 13,
+    "name": "Picada criolla para dos",
+    "description": "Jamón, salame, quesos, aceitunas, berenjenas y pan.",
+    "price": 18500,
+    "categoryId": 3,
+    "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 14,
+    "name": "Picada completa",
+    "description": "Fiambres, quesos, empanadas, milanesitas y papas fritas.",
+    "price": 24500,
+    "categoryId": 3,
+    "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 15,
+    "name": "Picada de quesos",
+    "description": "Selección de quesos semiduros, aceitunas, frutos secos y tostadas.",
+    "price": 15500,
+    "categoryId": 3,
+    "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 16,
+    "name": "Picada de campo",
+    "description": "Salame, longaniza, queso, mortadela y pan casero.",
+    "price": 17500,
+    "categoryId": 3,
+    "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 17,
+    "name": "Papas con cheddar y panceta",
+    "description": "Papas fritas crocantes con cheddar fundido y panceta.",
+    "price": 9800,
+    "categoryId": 3,
+    "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 18,
+    "name": "Picada caliente",
+    "description": "Bastones de mozzarella, rabas, pollo rebozado y papas fritas.",
+    "price": 22000,
+    "categoryId": 3,
+    "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 19,
+    "name": "Milanesa napolitana",
+    "description": "Milanesa de ternera con salsa de tomate, jamón y mozzarella.",
+    "price": 14500,
+    "categoryId": 4,
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 20,
+    "name": "Milanesa a caballo",
+    "description": "Milanesa de ternera con dos huevos fritos.",
+    "price": 13800,
+    "categoryId": 4,
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 21,
+    "name": "Milanesa completa",
+    "description": "Milanesa con jamón, queso, huevo frito y guarnición.",
+    "price": 15800,
+    "categoryId": 4,
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 22,
+    "name": "Milanesa de pollo",
+    "description": "Suprema empanada y dorada, con guarnición a elección.",
+    "price": 12500,
+    "categoryId": 4,
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 23,
+    "name": "Milanesa a la fugazzeta",
+    "description": "Milanesa cubierta con mozzarella y cebolla salteada.",
+    "price": 15200,
+    "categoryId": 4,
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 24,
+    "name": "Milanesa de berenjena",
+    "description": "Berenjena rebozada, dorada y acompañada con guarnición.",
+    "price": 10500,
+    "categoryId": 4,
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 25,
+    "name": "Asado de tira",
+    "description": "Asado a la parrilla, servido con chimichurri.",
+    "price": 19500,
+    "categoryId": 5,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 26,
+    "name": "Bife de chorizo",
+    "description": "Corte de carne vacuna a la parrilla, jugoso y sabroso.",
+    "price": 22000,
+    "categoryId": 5,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 27,
+    "name": "Vacío a la parrilla",
+    "description": "Vacío asado lentamente, con sabor tradicional.",
+    "price": 20500,
+    "categoryId": 5,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 28,
+    "name": "Entraña con chimichurri",
+    "description": "Entraña grillada con chimichurri casero.",
+    "price": 21500,
+    "categoryId": 5,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 29,
+    "name": "Costillitas de cerdo",
+    "description": "Costillas a la parrilla con salsa barbacoa.",
+    "price": 17500,
+    "categoryId": 5,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 30,
+    "name": "Pollo a la parrilla",
+    "description": "Pollo dorado a las brasas con limón y hierbas.",
+    "price": 13500,
+    "categoryId": 5,
+    "image": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 31,
+    "name": "Ravioles de ricota y verdura",
+    "description": "Pasta casera rellena, con salsa a elección.",
+    "price": 12500,
+    "categoryId": 6,
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 32,
+    "name": "Ñoquis de papa",
+    "description": "Ñoquis caseros con salsa fileto y queso rallado.",
+    "price": 11000,
+    "categoryId": 6,
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 33,
+    "name": "Sorrentinos de jamón y queso",
+    "description": "Pasta rellena artesanal con salsa rosa.",
+    "price": 14500,
+    "categoryId": 6,
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 34,
+    "name": "Tallarines con tuco",
+    "description": "Tallarines caseros con salsa de tomate y carne.",
+    "price": 11800,
+    "categoryId": 6,
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 35,
+    "name": "Lasagna de carne",
+    "description": "Capas de pasta, carne, salsa de tomate y queso gratinado.",
+    "price": 14800,
+    "categoryId": 6,
+    "image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 36,
+    "name": "Ravioles de verdura con salsa blanca",
+    "description": "Pasta rellena de verduras con salsa blanca cremosa.",
+    "price": 13200,
+    "categoryId": 6,
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 37,
+    "name": "Pizza muzzarella",
+    "description": "Salsa de tomate, mozzarella, aceitunas y orégano.",
+    "price": 10500,
+    "categoryId": 7,
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 38,
+    "name": "Pizza napolitana",
+    "description": "Mozzarella, rodajas de tomate, ajo y orégano.",
+    "price": 12500,
+    "categoryId": 7,
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 39,
+    "name": "Pizza especial",
+    "description": "Salsa, mozzarella, jamón cocido y morrones.",
+    "price": 13800,
+    "categoryId": 7,
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 40,
+    "name": "Pizza fugazzeta",
+    "description": "Mozzarella abundante y cebolla dorada.",
+    "price": 14500,
+    "categoryId": 7,
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 41,
+    "name": "Pizza calabresa",
+    "description": "Mozzarella, longaniza calabresa y aceitunas.",
+    "price": 14500,
+    "categoryId": 7,
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 42,
+    "name": "Pizza cuatro quesos",
+    "description": "Combinación de mozzarella, provolone, azul y parmesano.",
+    "price": 15500,
+    "categoryId": 7,
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 43,
+    "name": "Hamburguesa clásica",
+    "description": "Medallón de carne, lechuga, tomate y queso.",
+    "price": 9500,
+    "categoryId": 8,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 44,
+    "name": "Hamburguesa doble cheddar",
+    "description": "Doble carne, doble cheddar y salsa de la casa.",
+    "price": 12500,
+    "categoryId": 8,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 45,
+    "name": "Hamburguesa con panceta",
+    "description": "Carne, cheddar, panceta crocante y cebolla caramelizada.",
+    "price": 13200,
+    "categoryId": 8,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 46,
+    "name": "Lomito completo",
+    "description": "Lomo, jamón, queso, huevo, lechuga y tomate.",
+    "price": 12500,
+    "categoryId": 8,
+    "image": "https://images.unsplash.com/photo-1553909489-cd47e0ef937f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 47,
+    "name": "Sándwich de milanesa",
+    "description": "Milanesa, lechuga, tomate y mayonesa en pan tostado.",
+    "price": 10500,
+    "categoryId": 8,
+    "image": "https://images.unsplash.com/photo-1553909489-cd47e0ef937f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 48,
+    "name": "Sándwich de bondiola",
+    "description": "Bondiola cocida lentamente con salsa criolla.",
+    "price": 11800,
+    "categoryId": 8,
+    "image": "https://images.unsplash.com/photo-1553909489-cd47e0ef937f?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 49,
+    "name": "Revuelto de zapallitos",
+    "description": "Zapallitos salteados con cebolla y huevo.",
+    "price": 8500,
+    "categoryId": 9,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 50,
+    "name": "Ensalada César",
+    "description": "Lechuga, pollo grillado, croutons y aderezo César.",
+    "price": 11500,
+    "categoryId": 9,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 51,
+    "name": "Ensalada mixta",
+    "description": "Lechuga, tomate y cebolla fresca.",
+    "price": 5500,
+    "categoryId": 9,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 52,
+    "name": "Ensalada completa",
+    "description": "Lechuga, tomate, zanahoria, huevo y choclo.",
+    "price": 7500,
+    "categoryId": 9,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 53,
+    "name": "Ensalada de rúcula y parmesano",
+    "description": "Rúcula fresca, parmesano, tomates cherry y oliva.",
+    "price": 9200,
+    "categoryId": 9,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 54,
+    "name": "Ensalada de pollo",
+    "description": "Pollo grillado, hojas verdes, tomate y huevo.",
+    "price": 10500,
+    "categoryId": 9,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 55,
+    "name": "Papas fritas",
+    "description": "Papas doradas y crocantes, ideales para compartir.",
+    "price": 5000,
+    "categoryId": 10,
+    "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 56,
+    "name": "Puré de papas",
+    "description": "Puré casero suave con manteca.",
+    "price": 4500,
+    "categoryId": 10,
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 57,
+    "name": "Papas provenzal",
+    "description": "Papas fritas con ajo y perejil fresco.",
+    "price": 5800,
+    "categoryId": 10,
+    "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 58,
+    "name": "Papas a la crema",
+    "description": "Papas al horno con crema y queso gratinado.",
+    "price": 6800,
+    "categoryId": 10,
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 59,
+    "name": "Puré de calabaza",
+    "description": "Calabaza asada y pisada con un toque de manteca.",
+    "price": 4500,
+    "categoryId": 10,
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 60,
+    "name": "Filet de merluza a la romana",
+    "description": "Filet de merluza rebozado y dorado al momento.",
+    "price": 13500,
+    "categoryId": 11,
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 61,
+    "name": "Merluza al horno",
+    "description": "Filet de merluza al horno con limón y hierbas.",
+    "price": 12800,
+    "categoryId": 11,
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 62,
+    "name": "Rabas con limón",
+    "description": "Calamares rebozados y fritos, con limón fresco.",
+    "price": 14500,
+    "categoryId": 11,
+    "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 63,
+    "name": "Langostinos al ajillo",
+    "description": "Langostinos salteados con ajo, perejil y oliva.",
+    "price": 18500,
+    "categoryId": 11,
+    "image": "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 64,
+    "name": "Filet de merluza a la plancha",
+    "description": "Merluza grillada con limón y condimentos suaves.",
+    "price": 13200,
+    "categoryId": 11,
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 65,
+    "name": "Gaseosa línea cola 500 ml",
+    "description": "Gaseosa individual bien fría.",
+    "price": 2500,
+    "categoryId": 12,
+    "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 66,
+    "name": "Agua mineral 500 ml",
+    "description": "Agua mineral sin gas.",
+    "price": 1800,
+    "categoryId": 12,
+    "image": "https://images.unsplash.com/photo-1564419320461-6870880221ad?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 67,
+    "name": "Limonada casera",
+    "description": "Limón exprimido, menta y hielo.",
+    "price": 3500,
+    "categoryId": 12,
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765edfd4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 68,
+    "name": "Cerveza rubia 473 ml",
+    "description": "Cerveza rubia en lata, servida bien fría.",
+    "price": 3200,
+    "categoryId": 12,
+    "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 69,
+    "name": "Vino Malbec de la casa",
+    "description": "Vino tinto argentino, botella de 750 ml.",
+    "price": 9500,
+    "categoryId": 12,
+    "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 70,
+    "name": "Gaseosa de 1,5 litros",
+    "description": "Gaseosa familiar para acompañar la comida.",
+    "price": 4200,
+    "categoryId": 12,
+    "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 71,
+    "name": "Flan casero con dulce de leche",
+    "description": "Flan tradicional con dulce de leche y crema opcional.",
+    "price": 4500,
+    "categoryId": 13,
+    "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 72,
+    "name": "Budín de pan",
+    "description": "Postre casero de pan con caramelo.",
+    "price": 4200,
+    "categoryId": 13,
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 73,
+    "name": "Panqueques con dulce de leche",
+    "description": "Panqueques tibios rellenos de dulce de leche.",
+    "price": 4800,
+    "categoryId": 13,
+    "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 74,
+    "name": "Tiramisú",
+    "description": "Postre de café, crema de mascarpone y cacao.",
+    "price": 5500,
+    "categoryId": 13,
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 75,
+    "name": "Helado artesanal",
+    "description": "Dos bochas de helado con sabores a elección.",
+    "price": 4000,
+    "categoryId": 13,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 76,
+    "name": "Chocotorta",
+    "description": "Capas de galletitas de chocolate, dulce de leche y crema.",
+    "price": 5200,
+    "categoryId": 13,
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 77,
+    "name": "Tarta de ricota",
+    "description": "Tarta casera de ricota con masa dulce.",
+    "price": 4800,
+    "categoryId": 14,
+    "image": "https://images.unsplash.com/photo-1464305795204-6f5bbfc7fb81?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 78,
+    "name": "Tarta de manzana",
+    "description": "Manzanas horneadas con masa artesanal y canela.",
+    "price": 4500,
+    "categoryId": 14,
+    "image": "https://images.unsplash.com/photo-1562007908-17c67e878c4b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 79,
+    "name": "Brownie con helado",
+    "description": "Brownie de chocolate tibio con una bocha de helado.",
+    "price": 5800,
+    "categoryId": 14,
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 80,
+    "name": "Copa de frutillas con crema",
+    "description": "Frutillas frescas acompañadas con crema batida.",
+    "price": 4800,
+    "categoryId": 14,
+    "image": "https://images.unsplash.com/photo-1464305795204-6f5bbfc7fb81?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 81,
+    "name": "Vigilante",
+    "description": "Porción de queso y dulce de batata o membrillo.",
+    "price": 3900,
+    "categoryId": 14,
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=800&q=80"
+  },
+
+  {
+    "id": 82,
+    "name": "Café cortado",
+    "description": "Café espresso con un toque de leche caliente.",
+    "price": 2200,
+    "categoryId": 15,
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 83,
+    "name": "Café con leche",
+    "description": "Café con leche caliente, servido en taza grande.",
+    "price": 2800,
+    "categoryId": 15,
+    "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 84,
+    "name": "Té en hebras",
+    "description": "Infusión caliente con selección de té.",
+    "price": 2000,
+    "categoryId": 15,
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 85,
+    "name": "Café doble",
+    "description": "Doble espresso de sabor intenso.",
+    "price": 2600,
+    "categoryId": 15,
+    "image": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 86,
+    "name": "Submarino",
+    "description": "Leche caliente con una barra de chocolate para fundir.",
+    "price": 3200,
+    "categoryId": 15,
+    "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?auto=format&fit=crop&w=800&q=80"
+  }
+]

@@ -1,0 +1,78 @@
+
+[
+  {
+    "id": 1,
+    "name": "Entradas",
+    "slug": "entradas"
+  },
+  {
+    "id": 2,
+    "name": "Empanadas",
+    "slug": "empanadas"
+  },
+  {
+    "id": 3,
+    "name": "Picadas",
+    "slug": "picadas"
+  },
+  {
+    "id": 4,
+    "name": "Milanesas",
+    "slug": "milanesas"
+  },
+  {
+    "id": 5,
+    "name": "Parrilla",
+    "slug": "parrilla"
+  },
+  {
+    "id": 6,
+    "name": "Pastas",
+    "slug": "pastas"
+  },
+  {
+    "id": 7,
+    "name": "Pizzas",
+    "slug": "pizzas"
+  },
+  {
+    "id": 8,
+    "name": "Hamburguesas",
+    "slug": "hamburguesas"
+  },
+  {
+    "id": 9,
+    "name": "Sándwiches",
+    "slug": "sandwiches"
+  },
+  {
+    "id": 10,
+    "name": "Minutas",
+    "slug": "minutas"
+  },
+  {
+    "id": 11,
+    "name": "Ensaladas",
+    "slug": "ensaladas"
+  },
+  {
+    "id": 12,
+    "name": "Guarniciones",
+    "slug": "guarniciones"
+  },
+  {
+    "id": 13,
+    "name": "Pescados y mariscos",
+    "slug": "pescados-mariscos"
+  },
+  {
+    "id": 14,
+    "name": "Bebidas",
+    "slug": "bebidas"
+  },
+  {
+    "id": 15,
+    "name": "Postres",
+    "slug": "postres"
+  }
+]
